@@ -7,7 +7,7 @@
   
 💬 Discutons tech, data & projets SaaS !  
   
-🔗 diuxx.dev (bientôt...)  
+🔗 nicoblog.dev (bientôt...)  
 
 <!---
 NicoDiuxx/NicoDiuxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
